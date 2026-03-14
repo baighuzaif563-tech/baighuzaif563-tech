@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20There!%20I'm%20a%20Dev%20in%20the%20Making%20👨‍💻&fontSize=28&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20Engineering%20Student%20@%20Ramdeobaba%20University&descAlignY=58&descSize=16&descColor=a0d8ef" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://github.com/baighuzaif563tech">
+<a href="https://github.com/baighuzaif563-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+🚀;Java+%26+Python+Developer+☕🐍;150%2B+LeetCode+Problems+Solved+🔥;Always+Learning%2C+Always+Building+💡;Open+Source+Enthusiast+🌐" alt="Typing SVG" />
 </a>
 
@@ -96,9 +96,9 @@ fun_fact    : "I debug with console.log and I'm not ashamed 😅"
 
 | Category | Count |
 |:---:|:---:|
-| 🟢 Easy | ~60+ |
-| 🟡 Medium | ~70+ |
-| 🔴 Hard | ~20+ |
+| 🟢 Easy | ~80+ |
+| 🟡 Medium | ~40+ |
+| 🔴 Hard | ~10+ |
 | 🗄️ Database (SQL) | ✅ Yes |
 | 🎯 **Total Solved** | **150+** |
 
@@ -109,15 +109,15 @@ fun_fact    : "I debug with console.log and I'm not ashamed 😅"
 ## 🗺️ Learning Roadmap 2025
 
 ```
-✅ Java Fundamentals          ████████████ Done
-✅ Python Basics & OOP        ████████████ Done
-✅ Web Basics (HTML/CSS/JS)   ████████████ Done
-✅ Linux & CLI                ████████████ Done
-✅ DSA - Arrays, Strings      ████████████ Done
-🔄 DSA - Trees, Graphs        ████████░░░░ In Progress
-🔄 System Design Basics       ██████░░░░░░ In Progress
-⏳ Spring Boot / Django       ████░░░░░░░░ Next Up
-⏳ React / Node.js            ████░░░░░░░░ Next Up
+✅ Java Fundamentals          ██████████ Done
+✅ Python Basics & OOP        ██████ Done
+✅ Web Basics (HTML/CSS/JS)   ██████ Done
+✅ Linux & CLI                ███████ Done
+✅ DSA - Arrays, Strings      ████████ Done
+🔄 DSA - Trees, Graphs        ███░░░░ In Progress
+🔄 System Design Basics       ██░░░░░░ In Progress
+⏳ Spring Boot / Django       ██░░░░░░░░ Next Up
+⏳ React / Node.js            ██░░░░░░░░ Next Up
 ⏳ Docker & Cloud Basics      ░░░░░░░░░░░░ Planned
 ```
 
@@ -161,7 +161,7 @@ fun_fact    : "I debug with console.log and I'm not ashamed 😅"
   <a href="mailto:24baigh@rbu.nagpur.in">
     <img src="https://img.shields.io/badge/Email-24baigh%40rbu.nagpur.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/baighuzaif563tech">
+  <a href="https://github.com/baighuzaif563-tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
