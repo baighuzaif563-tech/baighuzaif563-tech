@@ -1,68 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,60:1b2838,100:0a0a0f&height=280&section=header&text=Huzaif%20Nazim%20Baig&fontSize=65&fontColor=58a6ff&fontAlignY=40&desc=⚡%20Java%20Developer%20·%20Backend%20Engineer%20·%20AI%20Enthusiast&descSize=20&descAlignY=62&descFontColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
-
 <div align="center">
 
-<a href="https://github.com/baighuzaif563-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=40&lines=🔭+Currently+building+backend+systems+in+Java;💡+211+LeetCode+problems+solved+%7C+Top+SQL+50+🏅;📜+Certified+by+Duke+University+%26+Microsoft;🚀+Open+to+Internship+Opportunities;🌱+Learning+Spring+Boot+%26+System+Design" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40baighuzaif563--tech-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22&color=0d1117)](https://github.com/baighuzaif563-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaif--baig-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22&color=0d1117)](https://linkedin.com/in/huzaif-baig)
-[![LeetCode](https://img.shields.io/badge/LeetCode-211%20Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22&color=0d1117)](https://leetcode.com/u/ROdCfUwc6o)
-[![Email](https://img.shields.io/badge/Email-24baigh%40rbunagpur.in-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=161b22&color=0d1117)](mailto:24baigh@rbunagpur.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Huzaif%20Nazim%20Baig&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Java%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=58&descFontColor=a9b1d6" width="100%"/>
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=baighuzaif563-tech&style=flat-square&color=58a6ff&label=Profile+Visitors&abbreviated=true)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square&logo=checkmarx&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-Nagpur%2C%20India-0d1117?style=flat-square&labelColor=161b22&color=58a6ff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=35&lines=🎓+B.Tech+CSE+%40+Ramdeobaba+University+%7C+CGPA%3A+9.25;☕+Java+Developer+focused+on+Backend+%26+DSA;🧠+211+LeetCode+Problems+Solved+%7C+🏅+Top+SQL+50;📜+Certified+by+Duke+University+%26+Microsoft;🚀+Open+to+Internship+Opportunities+in+SWE)](https://github.com/baighuzaif563-tech)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-baighuzaif563--tech-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baighuzaif563-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaif--baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaif-baig)
+[![LeetCode](https://img.shields.io/badge/LeetCode-211%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ROdCfUwc6o)
+[![Gmail](https://img.shields.io/badge/Email-24baigh%40rbunagpur.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24baigh@rbunagpur.in)
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=baighuzaif563-tech&label=Profile+Views&color=7aa2f7&style=flat-square)
+&nbsp;&nbsp;
+![status](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-2ea44f?style=flat-square)
+&nbsp;&nbsp;
+![location](https://img.shields.io/badge/%F0%9F%93%8D-Nagpur%2C%20India-7aa2f7?style=flat-square)
 
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<br/>
 
 ---
 
-## 🧑‍💻 &nbsp;`whoami`
+## 👨‍💻 &nbsp;About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coder"/>
+<img align="right" width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```java
 /**
- * @author  Huzaif Nazim Baig
- * @college Ramdeobaba University, Nagpur
- * @batch   B.Tech CSE · 2024 – 2028
- * @cgpa    9.25 / 10.0
+ * @name     Huzaif Nazim Baig
+ * @role     Java Developer & CS Engineer
+ * @college  Ramdeobaba University, Nagpur
+ * @batch    2024 – 2028  |  CGPA: 9.25 / 10
  */
-public class Developer {
+public class HuzaifBaig {
 
-    private final String   name     = "Huzaif Nazim Baig";
-    private final String[] stack    = {"Java", "SQL", "Python", "Bash"};
-    private final String[] learning = {"Spring Boot", "React", "AWS", "System Design"};
-    private final boolean  hiring   = true; // ← recruiters, read this 👀
+    String[]  stack    = {"Java","SQL","Python","Bash"};
+    String[]  learning = {"Spring Boot","React","AWS"};
+    boolean   hiring   = true; // ← recruiters, note this 👀
 
-    // Competitive Programming
-    private final int      lcSolved  = 211;   // Easy:125  Med:78  Hard:8
-    private final int      lcRank    = 724998;
-    private final String   lcBadge   = "🏅 Top SQL 50";
+    // LeetCode
+    int       solved   = 211; // Easy:125 Med:78 Hard:8
+    String    badge    = "Top SQL 50 🏅";
 
-    public String askMe() {
-        return "Backend systems, clean code & solving hard problems.";
+    String motto() {
+        return "Build. Learn. Repeat.";
     }
 }
 ```
 
 <br clear="right"/>
+
+- 🎯 &nbsp;Focused on **Backend Development** and **Data Structures & Algorithms**
+- 🤖 &nbsp;Interested in **AI-powered applications** and **Generative AI**
+- 🌱 &nbsp;Currently learning **Spring Boot** and **System Design**
+- 💼 &nbsp;Open to **Software Engineering Internships**
+- 📍 &nbsp;Based in **Nagpur, Maharashtra, India**
 
 ---
 
@@ -70,16 +68,10 @@ public class Developer {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🏛️  Ramdeobaba University, Nagpur                          ║
-║  ───────────────────────────────────────────────────────     ║
-║  B.Tech · Computer Science Engineering · 2024 – 2028         ║
-║  CGPA : ████████████████████░  9.25 / 10.0                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  📋  MHT-CET 2024  →  94 Percentile                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| | Institution | Qualification | Year | Score |
+|:---:|:---|:---|:---:|:---:|
+| 🏛️ | **Ramdeobaba University, Nagpur** | B.Tech — Computer Science & Engineering | 2024–2028 | **9.25 CGPA** |
+| 📋 | MHT-CET Entrance Examination | Engineering Entrance | 2024 | **94 Percentile** |
 
 </div>
 
@@ -89,19 +81,16 @@ public class Developer {
 
 <div align="center">
 
-### &nbsp;Languages &nbsp;·&nbsp; Frameworks &nbsp;·&nbsp; Tools
-
-<img src="https://skillicons.dev/icons?i=java,python,c,bash,mysql,git,github,vscode,idea,linux&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,c,bash,mysql,git,github,vscode,idea,linux&theme=dark&perline=10"/>
 
 <br/><br/>
 
-| Domain | Technologies |
+| Domain | Skills |
 |:---|:---|
-| **Primary Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) — OOP · JDBC · Collections · Streams |
-| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) — JDBC · CRUD · Joins · Indexing |
-| **AI / GenAI** | ![OpenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white) — Prompt Engineering · Data Analysis |
-| **CS Fundamentals** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) — JDBC · SQL · Joins · Indexing · CRUD |
+| **Data / AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white) — Prompt Eng · Data Analysis |
+| **CS Core** | Data Structures & Algorithms · OOP · DBMS · OS · Computer Networks |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
@@ -112,37 +101,100 @@ public class Developer {
 
 <div align="center">
 
-### &nbsp;
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| # | Project | Stack | Highlights |
-|:---:|:---|:---:|:---|
-| 01 | **🤖 [Jarvis — Voice Assistant](https://github.com/baighuzaif563-tech)** | `Java` `Speech API` | Voice-controlled system assistant · Modular OOP · Real-time recognition |
-| 02 | **🌦️ [Weather App](https://github.com/baighuzaif563-tech)** | `Java` `REST API` `JSON` | Live weather via public API · JSON parsing · City-based lookups |
-| 03 | **📚 [Library Management System](https://github.com/baighuzaif563-tech)** | `Java` `JDBC` `MySQL` | Full CRUD · Persistent DB · Auth & role-based access |
-| 04 | **🔍 [AI Search Algorithms](https://github.com/baighuzaif563-tech)** | `Java` `AI` | BFS · Water Jug · M&C · 8-Puzzle with heuristic search |
-| 05 | **📖 [AI Prompt Library](https://baighuzaif563-tech.github.io/Prompt-Library-Project/#/)** | `Docsify` `Markdown` `GitHub Pages` | **Live deployed** · Searchable prompts · Coding · Interviews · Productivity |
+### 🤖 Jarvis — Voice Assistant
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Speech API](https://img.shields.io/badge/Speech%20API-24292e?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-24292e?style=flat-square)
+
+- 🎙️ Voice-controlled system operations
+- 🏗️ Modular OOP design for extensibility
+- 🔌 Java Speech API for real-time recognition
+- ⚙️ Pluggable command registry pattern
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-24292e?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white)
+
+- 🌐 Real-time weather via public REST API
+- 📦 JSON parsing & structured data handling
+- 🔍 City-based live weather lookups
+- 📡 HTTP networking with Java's native libs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-24292e?style=flat-square)
+
+- 🗃️ Full CRUD — Java + JDBC + MySQL
+- 💾 Persistent relational database storage
+- 📖 Issue, return & fine management
+- 🔐 User auth & role-based access control
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 AI Search Algorithms
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-24292e?style=flat-square)
+
+- 🌊 Breadth-First Search (BFS)
+- 💧 Water Jug problem solver
+- 🐦 Missionaries & Cannibals simulation
+- 🔢 8-Puzzle with heuristic state-space search
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📖 AI Prompt Library &nbsp;·&nbsp; [🌐 Live Demo ↗](https://baighuzaif563-tech.github.io/Prompt-Library-Project/#/)
+
+![Docsify](https://img.shields.io/badge/Docsify-2ECE53?style=flat-square&logo=gitbook&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-24292e?style=flat-square&logo=github&logoColor=white)
+
+A curated, searchable collection of AI prompts — **deployed live on GitHub Pages**
+
+`Coding` &nbsp;·&nbsp; `Interviews` &nbsp;·&nbsp; `Learning` &nbsp;·&nbsp; `Productivity`
+
+Built with **Docsify** · Zero-build · Instant search · Clean navigation
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> 🔗 **Live Project →** [AI Prompt Library](https://baighuzaif563-tech.github.io/Prompt-Library-Project/#/) &nbsp;|&nbsp; ⭐ Star if you find it useful!
-
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=baighuzaif563-tech&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=baighuzaif563-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baighuzaif563-tech&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baighuzaif563-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=baighuzaif563-tech&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=8" />
+<img src="https://streak-stats.demolab.com?user=baighuzaif563-tech&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baighuzaif563-tech&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=false&border_color=30363d&radius=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=baighuzaif563-tech&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" width="100%"/>
 
 </div>
 
@@ -152,23 +204,27 @@ public class Developer {
 
 <div align="center">
 
-### LeetCode &nbsp;·&nbsp; [`ROdCfUwc6o`](https://leetcode.com/u/ROdCfUwc6o)
-
-<img src="https://leetcard.jacoblin.cool/ROdCfUwc6o?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" width="500"/>
+### LeetCode &nbsp;·&nbsp; [ROdCfUwc6o ↗](https://leetcode.com/u/ROdCfUwc6o)
 
 <br/>
 
-```
-  ┌─────────────────────────────────────────────────────┐
-  │              LeetCode Performance Card              │
-  ├────────────┬─────────┬──────────┬──────────────────-┤
-  │  Solved    │  🟢 125  │  🟡 78   │  🔴 8             │
-  │  211/3928  │  Easy   │  Medium  │  Hard             │
-  ├────────────┴─────────┴──────────┴──────────────────-┤
-  │  📅 516 submissions in last year · 68 active days   │
-  │  🔥 Max Streak: 6 days   ·   🏅 Badge: Top SQL 50  │
-  └─────────────────────────────────────────────────────┘
-```
+| Metric | Value |
+|:---|:---:|
+| ✅ Total Solved | **211 / 3928** |
+| 🟢 Easy | **125** |
+| 🟡 Medium | **78** |
+| 🔴 Hard | **8** |
+| 📅 Submissions (Last Year) | **516** |
+| 🗓️ Active Days | **68** |
+| 🔥 Max Streak | **6 days** |
+| 🏅 Badge Earned | **Top SQL 50** |
+
+<br/>
+
+![Easy](https://img.shields.io/badge/Easy-125-2CBB5D?style=for-the-badge&logo=leetcode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-78-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Hard](https://img.shields.io/badge/Hard-8-EF4743?style=for-the-badge&logo=leetcode&logoColor=white)
+![Badge](https://img.shields.io/badge/🏅%20Top%20SQL%2050-Earned-gold?style=for-the-badge)
 
 </div>
 
@@ -178,124 +234,78 @@ public class Developer {
 
 <div align="center">
 
-*Verified via **Coursera** · Offered through Shri Ramdeobaba College of Engineering & Management*
+> All courses completed via **Coursera** &nbsp;·&nbsp; Offered through Shri Ramdeobaba College of Engineering & Management
 
 <br/>
 
-<table>
-<tr>
-<th>Institution</th>
-<th>Course</th>
-<th>Date</th>
-<th>Credential</th>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Duke%20University-003087?style=flat-square&logoColor=white"/></td>
-<td><b>Linux and Bash for Data Engineering</b></td>
-<td>Apr 2026</td>
-<td><a href="https://coursera.org/verify/J1CWJF1UAWR4"><img src="https://img.shields.io/badge/Verify-2ea44f?style=flat-square&logo=coursera&logoColor=white"/></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Duke%20University-003087?style=flat-square&logoColor=white"/></td>
-<td><b>Python and Pandas for Data Engineering</b></td>
-<td>Apr 2026</td>
-<td><a href="https://coursera.org/verify/A5L8S4GPBHKY"><img src="https://img.shields.io/badge/Verify-2ea44f?style=flat-square&logo=coursera&logoColor=white"/></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-<td><b>Data Processing and Optimization with Generative AI</b></td>
-<td>Apr 2026</td>
-<td><img src="https://img.shields.io/badge/Completed-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-<td><b>Advanced Data Analysis with Generative AI</b></td>
-<td>Apr 2026</td>
-<td><img src="https://img.shields.io/badge/Completed-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-<td><b>Introduction to Generative AI for Data Analysis</b></td>
-<td>Apr 2026</td>
-<td><img src="https://img.shields.io/badge/Completed-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Univ.%20of%20Rochester-003F87?style=flat-square&logoColor=white"/></td>
-<td><b>Community Engagement in Research and Population Health</b></td>
-<td>Apr 2026</td>
-<td><img src="https://img.shields.io/badge/Completed-003F87?style=flat-square&logoColor=white"/></td>
-</tr>
-</table>
+| Institution | Course | Date | Credential |
+|:---|:---|:---:|:---:|
+| ![Duke](https://img.shields.io/badge/Duke%20University-003087?style=flat-square) | **Linux and Bash for Data Engineering** | Apr 2026 | [![Verify](https://img.shields.io/badge/Verify-2ea44f?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/J1CWJF1UAWR4) |
+| ![Duke](https://img.shields.io/badge/Duke%20University-003087?style=flat-square) | **Python and Pandas for Data Engineering** | Apr 2026 | [![Verify](https://img.shields.io/badge/Verify-2ea44f?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/A5L8S4GPBHKY) |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Data Processing and Optimization with Generative AI** | Apr 2026 | ✅ |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Advanced Data Analysis with Generative AI** | Apr 2026 | ✅ |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Introduction to Generative AI for Data Analysis** | Apr 2026 | ✅ |
+| ![Rochester](https://img.shields.io/badge/Univ.%20of%20Rochester-003F87?style=flat-square) | **Community Engagement in Research and Population Health** | Apr 2026 | ✅ |
 
 </div>
 
 ---
 
-## 🏆 &nbsp;Achievements
+## 🏆 &nbsp;Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=baighuzaif563-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
+<br/>
 
-<br/><br/>
-
-| 🥇 Academic | 🎯 Entrance | ⚡ Competitive | 🏅 Badge |
+| 🎓 Academic | 📋 Entrance | 💡 Coding | 🏅 Badge |
 |:---:|:---:|:---:|:---:|
-| **9.25 / 10 CGPA** | **94 Percentile MHT-CET** | **211 LeetCode Solved** | **Top SQL 50** |
-| Ramdeobaba University | 2024 Batch | 516 submissions / yr | LeetCode Official |
+| **9.25 / 10 CGPA** | **94 Percentile** | **211 LeetCode** | **Top SQL 50** |
+| Ramdeobaba University | MHT-CET 2024 | 516 submissions/yr | LeetCode Official |
 
 </div>
 
 ---
 
-## 🗺️ &nbsp;2026 Roadmap
+## 🗺️ &nbsp;Roadmap 2026
 
 <div align="center">
 
-| Quarter | Focus | Status |
+| Quarter | Goal | Status |
 |:---:|:---|:---:|
-| **Q1** | ✅ 200+ LeetCode · Duke & Microsoft Certs · AI Prompt Library (live) | `DONE` |
-| **Q2** | 🔄 Spring Boot · REST API Design · Backend Projects | `IN PROGRESS` |
-| **Q3** | ⏳ React Frontend · System Design Patterns | `PLANNED` |
-| **Q4** | ⏳ AWS Cloud · Software Engineering Internship 🎯 | `PLANNED` |
-| **All Year** | 🌍 Open Source Contributions | `ONGOING` |
+| **Q1** | 200+ LeetCode · Duke & Microsoft Certs · Live Project Deployed | ✅ `Done` |
+| **Q2** | Spring Boot · REST APIs · Backend Projects | 🔄 `In Progress` |
+| **Q3** | React · System Design · Full-Stack Projects | ⏳ `Planned` |
+| **Q4** | AWS Cloud · Software Engineering Internship 🎯 | ⏳ `Planned` |
+| **All Year** | Open Source Contributions | 🟢 `Ongoing` |
 
 </div>
 
 ---
 
-## 🤝 &nbsp;Let's Connect
+## 🤝 &nbsp;Connect with Me
 
 <div align="center">
 
 <br/>
 
-**I'm open to internship opportunities, open source collaboration, and good tech conversations.**
+*I'm open to internship opportunities, collaboration, and good tech conversations.*
 
 <br/>
 
-<a href="https://github.com/baighuzaif563-tech">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22" />
-</a>
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baighuzaif563-tech)
 &nbsp;
-<a href="https://linkedin.com/in/huzaif-baig">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaif-baig)
 &nbsp;
-<a href="https://leetcode.com/u/ROdCfUwc6o">
-  <img src="https://img.shields.io/badge/LeetCode%20Profile-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ROdCfUwc6o)
 &nbsp;
-<a href="mailto:24baigh@rbunagpur.in">
-  <img src="https://img.shields.io/badge/Drop%20a%20Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=161b22" />
-</a>
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24baigh@rbunagpur.in)
 
 <br/><br/>
 
-```
-If my work helped you in any way — a ⭐ on the repo means the world. Thank you!
-```
+*If my work helped you — a ⭐ on the repo means a lot. Thank you!*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&fontSize=14&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
