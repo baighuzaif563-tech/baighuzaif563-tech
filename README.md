@@ -1,18 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Huzaif%20Baig&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineer%20·%20Java%20Developer%20·%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<br/>
-
-```ascii
- ██████╗ ██████╗ ██████╗ ███████╗    ██╗███████╗    ███╗   ██╗ ██████╗ ████████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝    ████╗  ██║██╔═══██╗╚══██╔══╝
-██║     ██║   ██║██║  ██║█████╗      ██║███████╗    ██╔██╗ ██║██║   ██║   ██║   
-██║     ██║   ██║██║  ██║██╔══╝      ██║╚════██║    ██║╚██╗██║██║   ██║   ██║   
-╚██████╗╚██████╔╝██████╔╝███████╗    ██║███████║    ██║ ╚████║╚██████╔╝   ██║   
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝    ╚═╝  ╚═══╝ ╚═════╝    ╚═╝  
-                ★  JUST SYNTAX ★
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Huzaif%20Nazim%20Baig&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineer%20·%20Java%20Developer%20·%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -20,12 +8,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A0;Backend+Systems+Engineer+%F0%9F%94%A7;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=☕+Java+Developer+%7C+Backend+Focused;🧠+DSA+Problem+Solver+%7C+211%2B+LeetCode;🤖+AI+%26+Generative+AI+Enthusiast;📚+Duke+%26+Microsoft+Certified+via+Coursera;🌱+Learning+Spring+Boot+%26+System+Design;🔓+Open+to+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-baighuzaif563--tech-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/baighuzaif563-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-huzaif--baig-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=302b63)](https://linkedin.com/in/huzaif-baig)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ROdCfUwc6o-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=302b63)](https://leetcode.com/u/ROdCfUwc6o)
 [![Email](https://img.shields.io/badge/Email-24baigh@rbunagpur.in-0f0c29?style=for-the-badge&logo=gmail&logoColor=white&labelColor=302b63)](mailto:24baigh@rbunagpur.in)
 
 <br/>
@@ -40,27 +29,35 @@
 
 ## ✦ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
 ```java
-public class HuzaifBaig extends Developer {
+public class HuzaifNazimBaig extends Developer {
 
-    String name        = "Huzaif Baig";
-    String role        = "CS Engineer & Java Developer";
-    String university  = "Ramdeobaba University";
-    double cgpa        = 9.25;
+    String   name        = "Huzaif Nazim Baig";
+    String   role        = "CS Engineer & Java Developer";
+    String   university  = "Ramdeobaba University, Nagpur";
+    double   cgpa        = 9.25;
+    int      year        = 1; // B.Tech 2024–2028
 
-    String[] focus     = {
+    String[] focus       = {
         "Backend Development",
         "Data Structures & Algorithms",
-        "AI-Based Applications"
+        "Generative AI Applications"
     };
 
-    String learning    = "Spring Boot & System Design";
-    String goal        = "Land a Software Engineering Internship";
-    boolean openToWork = true;
+    String   learning    = "Spring Boot & System Design";
+    String   status      = "Open to Opportunities";
+    boolean  openToWork  = true;
 
-    public String toString() {
+    // LeetCode Stats
+    int      solved      = 211;
+    int      easy        = 125;
+    int      medium      = 78;
+    int      hard        = 8;
+    String   badge       = "Top SQL 50 🏅";
+
+    public String motto() {
         return "Passionate. Driven. Always Learning.";
     }
 }
@@ -77,9 +74,9 @@ public class HuzaifBaig extends Developer {
 <div align="center">
 
 | 🏛️ Institution | 📚 Degree | 📅 Year | 📊 Score |
-|:---:|:---:|:---:|:---:|
-| **Ramdeobaba University** | B.Tech CSE | 2024 – 2028 | **9.25 CGPA** |
-| MHT-CET Examination | Entrance | 2024 | **94 Percentile** |
+|:---|:---:|:---:|:---:|
+| **Ramdeobaba University, Nagpur** | B.Tech — Computer Science Engineering | 2024 – 2028 | **9.25 / 10 CGPA** |
+| MHT-CET Entrance Examination | Engineering Entrance | 2024 | **94 Percentile** |
 
 </div>
 
@@ -93,13 +90,15 @@ public class HuzaifBaig extends Developer {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,python,bash,mysql&theme=dark" />
 
-| Language | Proficiency |
-|:---:|:---|
-| ☕ Java | `█████████░` 90% — Primary Language |
-| 🔵 C | `██████░░░░` 60% — Solid Fundamentals |
-| 🐍 Python | `████░░░░░░` 40% — Exploring |
+| Language | Proficiency | Notes |
+|:---:|:---|:---|
+| ☕ Java | `█████████░` 90% | Primary — OOP, JDBC, APIs, DSA |
+| 🐍 Python | `█████░░░░░` 50% | Pandas, Data Engineering (Duke / Coursera) |
+| 🔵 C | `██████░░░░` 60% | Solid fundamentals |
+| 🐚 Bash / Linux | `████░░░░░░` 40% | Duke University certified |
+| 🗄️ SQL | `██████░░░░` 60% | MySQL, JDBC · LeetCode Top SQL 50 🏅 |
 
 ### 🧠 Core Concepts
 
@@ -107,10 +106,11 @@ public class HuzaifBaig extends Developer {
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-0f0c29?style=for-the-badge&logo=java&logoColor=white&labelColor=302b63)
 ![DBMS](https://img.shields.io/badge/Database%20Management-0f0c29?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=302b63)
 ![OS](https://img.shields.io/badge/Operating%20Systems-0f0c29?style=for-the-badge&logo=linux&logoColor=white&labelColor=302b63)
+![GenAI](https://img.shields.io/badge/Generative%20AI-0f0c29?style=for-the-badge&logo=openai&logoColor=white&labelColor=302b63)
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,linux&theme=dark" />
 
 </div>
 
@@ -129,6 +129,7 @@ public class HuzaifBaig extends Developer {
 ### 🤖 Jarvis — Voice Assistant
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Speech API](https://img.shields.io/badge/Speech%20API-302b63?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0f0c29?style=flat-square)
 
 > An intelligent voice assistant built entirely in Java
 
@@ -143,6 +144,7 @@ public class HuzaifBaig extends Developer {
 ### 🌦️ Weather App
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-302b63?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 > Live weather data fetcher with clean Java backend
 
@@ -175,7 +177,7 @@ public class HuzaifBaig extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-302b63?style=flat-square)
 
-> Classic AI problem-solving implementations
+> Classic AI problem-solving implementations in Java
 
 - 🌊 Breadth-First Search (BFS) traversal
 - 💧 Water Jug problem solver
@@ -192,12 +194,12 @@ public class HuzaifBaig extends Developer {
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-302b63?style=flat-square&logo=github&logoColor=white)
 
-> A curated, searchable collection of AI prompts — live on the web
+> A curated, searchable collection of AI prompts — deployed live on GitHub Pages
 
 - 🤖 Organized prompt collections for **Coding**, **Interviews**, **Learning** & **Productivity**
-- 📚 Built with **Docsify** for a fast, markdown-driven documentation site
-- 🌐 Deployed live via **GitHub Pages** — zero backend needed
-- 🔍 Instantly searchable prompt library with clean navigation
+- 📚 Built with **Docsify** — fast, markdown-driven, zero-build documentation site
+- 🌐 Deployed live via **GitHub Pages** with instant public access
+- 🔍 Instantly searchable prompt library with clean sidebar navigation
 
 </td>
 </tr>
@@ -209,35 +211,50 @@ public class HuzaifBaig extends Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements & Stats
+## 🏆 Achievements & Competitive Programming
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🥇
-**9.25 / 10 CGPA**
-*Academic Excellence*
+**9.25 / 10**
+*CGPA — RBU*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 🎯
 **94 Percentile**
 *MHT-CET 2024*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### 💡
-**150+ Problems**
+**211 Problems**
 *LeetCode Solved*
+
+</td>
+<td align="center" width="25%">
+
+### 🏅
+**Top SQL 50**
+*LeetCode Badge*
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### ⚡ LeetCode Stats — [ROdCfUwc6o](https://leetcode.com/u/ROdCfUwc6o)
+
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Submissions (1 yr) | Active Days | Max Streak |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **211 / 3928** | **125** | **78** | **8** | **516** | **68** | **6 days** |
 
 <br/>
 
@@ -261,27 +278,52 @@ public class HuzaifBaig extends Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 2025 Goals Roadmap
+## 📜 Certifications
+
+<div align="center">
+
+*All courses completed via **Coursera** · Offered through Shri Ramdeobaba College of Engineering & Management*
+
+<br/>
+
+| 🏛️ Issuing Institution | 📋 Course | 📅 Completed | 🔗 |
+|:---|:---|:---:|:---:|
+| ![Duke](https://img.shields.io/badge/Duke%20University-003087?style=flat-square&logoColor=white) | Linux and Bash for Data Engineering | Apr 2026 | [Verify ↗](https://coursera.org/verify/J1CWJF1UAWR4) |
+| ![Duke](https://img.shields.io/badge/Duke%20University-003087?style=flat-square&logoColor=white) | Python and Pandas for Data Engineering | Apr 2026 | [Verify ↗](https://coursera.org/verify/A5L8S4GPBHKY) |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Data Processing and Optimization with Generative AI | Apr 2026 | ✅ |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Advanced Data Analysis with Generative AI | Apr 2026 | ✅ |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Introduction to Generative AI for Data Analysis | Apr 2026 | ✅ |
+| ![Rochester](https://img.shields.io/badge/Univ.%20of%20Rochester-003F87?style=flat-square&logoColor=white) | Community Engagement in Research and Population Health | Apr 2026 | ✅ |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 2026 Goals Roadmap
 
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                     🗺️  ROADMAP 2025                           │
-  ├──────────────────────┬──────────────────────────────────────────┤
-  │  Q1 ─ Foundation     │  ✅ Master Core Java & DSA               │
-  │                      │  ✅ 150+ LeetCode Problems               │
-  ├──────────────────────┼──────────────────────────────────────────┤
-  │  Q2 ─ Backend        │  🔄 Spring Boot Framework                │
-  │                      │  🔄 REST API Development                 │
-  ├──────────────────────┼──────────────────────────────────────────┤
-  │  Q3 ─ Full Stack     │  ⏳ React Frontend                       │
-  │                      │  ⏳ System Design Patterns               │
-  ├──────────────────────┼──────────────────────────────────────────┤
-  │  Q4 ─ Cloud & Career │  ⏳ AWS Cloud Fundamentals               │
-  │                      │  ⏳ Crack Software Internship 🎯          │
-  └──────────────────────┴──────────────────────────────────────────┘
-                     [ Open Source Contribution ] ────────────────▶
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │                       🗺️  ROADMAP 2026                              │
+  ├───────────────────────┬──────────────────────────────────────────────┤
+  │  Q1 ─ Foundation  ✅  │  ✅ 200+ LeetCode Problems Solved            │
+  │                       │  ✅ Duke & Microsoft Certifications          │
+  │                       │  ✅ AI Prompt Library — Live Deployed        │
+  ├───────────────────────┼──────────────────────────────────────────────┤
+  │  Q2 ─ Backend     🔄  │  🔄 Spring Boot Framework                    │
+  │                       │  🔄 REST API Development                     │
+  │                       │  🔄 Build & Deploy Backend Projects          │
+  ├───────────────────────┼──────────────────────────────────────────────┤
+  │  Q3 ─ Full Stack  ⏳  │  ⏳ React Frontend                           │
+  │                       │  ⏳ System Design Fundamentals               │
+  ├───────────────────────┼──────────────────────────────────────────────┤
+  │  Q4 ─ Cloud & ☁️  ⏳  │  ⏳ AWS Cloud Fundamentals                   │
+  │       Career 🎯       │  ⏳ Crack Software Engineering Internship    │
+  └───────────────────────┴──────────────────────────────────────────────┘
+                      [ Open Source Contribution Throughout ] ──────────▶
 ```
 
 </div>
@@ -296,13 +338,14 @@ public class HuzaifBaig extends Developer {
 
 <br/>
 
-*I'm actively looking for **Software Engineering Internships** and **open source collaborations**.*
-*If you have an opportunity or just want to talk tech — reach out!*
+*I'm **open to opportunities** — Software Engineering Internships, open source collaborations, or just a good tech conversation.*
+*Feel free to reach out anytime!*
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baighuzaif563-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaif-baig)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ROdCfUwc6o)
 [![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24baigh@rbunagpur.in)
 
 <br/>
